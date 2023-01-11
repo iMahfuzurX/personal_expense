@@ -1,6 +1,5 @@
 # personal_expense
 
-A new Flutter project.
 
 ## Getting Started
 
